@@ -3,12 +3,12 @@ entries:
   cluster-control:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2019-12-27T16:56:39.847422-06:00"
+    created: "2019-12-27T16:58:57.690826-06:00"
     description: A Helm chart for Kubernetes
-    digest: 99fc99d567ea0bb2ceab31654108ff62f3c9052ea565cb68371425fbd74d0cab
+    digest: 2b73eb4a1262d9b1eac5e2f6d27e8d146b3f2c3fa873148fd9fece4325e52293
     name: cluster-control
     type: application
     urls:
     - cluster-control-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-27T16:56:39.845943-06:00"
+generated: "2019-12-27T16:58:57.689064-06:00"
